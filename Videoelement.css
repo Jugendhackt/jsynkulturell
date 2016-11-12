@@ -5,11 +5,11 @@
 	margin-right: 10px;
 	max-width: 560px;
 	border: 1px solid black;
-	display: inline-block;	
+	display: inline-block;
+	text-align: center;
 }
 .Videos {
 	max-width: 100%;
-	background: red;
 }
 .Titel {
 	text-align:center;
