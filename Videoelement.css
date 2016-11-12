@@ -1,11 +1,14 @@
 .Videoelement {
 	background: green;
-	padding: 10px
+	padding: 10px;
 	margin-bottom: 10px;
 	margin-right: 10px;
-	max-width: 400px;
+	max-width: 560px;
 	float: left;
+	display: inline;
 }
 
 .Titel {
+	text-align:center;
+	font-weight:bold;
 }
