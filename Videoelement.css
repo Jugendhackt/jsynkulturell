@@ -6,10 +6,10 @@
 	max-width: 560px;
 	border: 1px solid black;
 	display: inline-block;
-	text-align: center;
 }
 .Videos {
 	max-width: 100%;
+text-align: center;
 }
 .Titel {
 	text-align:center;
