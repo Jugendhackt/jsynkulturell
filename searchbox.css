@@ -1,7 +1,7 @@
 #tfheader{
 	background-color:;
 	bottom: 0;
-	position: absolute;
+	position: fixed;
 	right: 0;
 }
 #tfnewsearch{
